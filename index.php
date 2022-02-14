@@ -56,7 +56,7 @@
 			<a class="exposicao" href="#ancora-abas">OUTRAS INFORMAÇÕES</a>
 		</div> -->
 		<p id="megashow">
-			A experiência imersiva dá as boas-vindas ao maravilhoso mundo de L.O.L. Surprise!. A atração proporciona ao público a oportunidade de se transportar ao universo das bonecas com a caracterização das crianças, além de muitas atividades interativas com as personagens oficiais. Uma das maiores sensações entre as crianças desembarca no estacionamento do Shopping Eldorado, em São Paulo, a partir do dia 23 de setembro. L.O.L. Surprise! Experience é uma atração inédita no Brasil que transportará os visitantes para o universo temático de L.O.L. Surprise!, com suas instalações imersivas e trazendo muita interatividade com as personagens oficiais. Desde a fachada deslumbrante com iluminação especial, crianças e adultos já terão certeza de que estão prestes a fazer parte de algo muito especial.
+			A experiência imersiva dá as boas-vindas ao maravilhoso mundo de L.O.L. Surprise!. A atração proporciona ao público a oportunidade de se transportar ao universo das bonecas com a caracterização das crianças, além de muitas atividades interativas com as personagens oficiais. L.O.L. Surprise! Experience é uma atração inédita no Brasil que transportará os visitantes para o universo temático de L.O.L. Surprise!, com suas instalações imersivas e trazendo muita interatividade com as personagens oficiais. Desde a fachada deslumbrante com iluminação especial, crianças e adultos já terão certeza de que estão prestes a fazer parte de algo muito especial.
 			<br><br>
 			O elenco é composto por dezenas de artistas (entre atrizes, cantoras e bailarinas) com caracterização das principais O.M.G.s, irmãs mais velhas das L.O.L.s, que receberão os visitantes logo na chegada. As O.M.G.s Lady Diva, Neonlicious, Da Boss, Dollie, entre outras guiarão os participantes por esse mundo imersivo com muita música, alegria, diversão e atitude.
 			<br><br>
@@ -150,7 +150,7 @@
 
 				<tr>
 					<td style="width: 30%" class="first">PASSAPORTE EXPERIENCE PREMIUM<br>(MEIA-ENTRADA)<br>-<br>CRIANÇA E UM RESPONSÁVEL</td>
-					<td style="width: 30%">(Experiência completa + maquiagem realizada no local + fantasia e necessaire com maquiagens exclusivas para levar para casa)</td>
+					<td style="width: 30%">(Experiência completa + maquiagem realizada no local + necessaire com maquiagens exclusivas para levar para casa)</td>
 					<td class="">R$ 189,00</td>
 					<td class="">R$ 219,00</td>
 				</tr>				
